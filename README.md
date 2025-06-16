@@ -23,7 +23,7 @@ A deep learning-based system for classifying three types of crops: jute, rice, a
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/CropDetection.git](https://github.com/almustakim/CropDetection.git)
+git clone https://github.com/almustakim/CropDetection.git
 cd CropDetection
 ```
 
